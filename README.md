@@ -1,4 +1,6 @@
-# Back-Posture-Edge-Computing-Device
+# PosturEdge
+
+A Back Posture Edge Computing Correction Device.
 
 This is a back posture correction device.
 
